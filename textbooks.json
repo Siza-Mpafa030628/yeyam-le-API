@@ -1,0 +1,7 @@
+{"books":
+[
+    { "id": 1, "title": "Siyavula Mathematics Grade 12", "url": "https://www.siyavula.com/read/za/mathematics/grade-12", "image": "siyajola.jpg"},
+    { "id": 2, "title": "Mind Action Series Mathematics Grade 12","url":"https://dcbooks.co.za/Grade-12-Mind-Action-Series-Mathematics-Textbook-New-Edition-NCAPS-2019-p253294368", "image": "actionseries.jpeg"},
+    {"id": 3, "title": "Maths Made Easy Grade 12 ", "url":"https://www.bobshop.co.za/maths-made-easy-grade-12-hand-book-and-study-book-caps-compliant-kevin-smith/p/383033729", "image": "madeeasy.jpeg"}
+  ]
+}

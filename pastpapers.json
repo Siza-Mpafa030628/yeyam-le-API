@@ -1,0 +1,36 @@
+{"Novpapers":
+[
+    { "id": 1, "year": 2023, "period": "Nov" ,"paper": 1, "url": "https://www.saexampapers.co.za/wp-content/uploads/2024/03/Mathematics-Maths-NSC-P1-QP-Nov-2023-Eng.pdf"},
+    {"id": 2, "year": 2023, "period": "Nov", "paper": 2, "url": "https://www.saexampapers.co.za/wp-content/uploads/2024/03/Mathematics-Maths-NSC-P2-QP-Nov-2023-Eng.pdf" },
+    {"id": 3, "year": 2022, "period": "Nov", "paper": 1, "url": "https://www.saexampapers.co.za/wp-content/uploads/2023/04/Mathematics-Maths-NSC-P1-QP-Nov-2022-Eng.pdf" },
+    {"id": 4, "year": 2022, "period": "Nov", "paper": 2, "url": "https://www.saexampapers.co.za/wp-content/uploads/2023/04/Mathematics-Maths-NSC-P2-QP-Nov-2022-Eng.pdf" },
+    {"id": 5, "year": 2021, "period": "Nov", "paper": 1, "url": "https://www.saexampapers.co.za/wp-content/uploads/2022/04/Mathematics-P1-Nov-2021-Eng.pdf" },
+    {"id": 6, "year": 2021, "period": "Nov","paper": 2, "url": "https://www.saexampapers.co.za/wp-content/uploads/2022/04/Mathematics-P2-Nov-2021-Eng.pdf" }
+],
+"Septpapers":
+[
+    { "id": 1, "year": 2023, "period": "Sept" ,"paper": 1, "url": "https://www.saexampapers.co.za/wp-content/uploads/2024/02/Mathematics-Maths-NSC-P1-QP-Sept-2023-X05-Eng-Gauteng.pdf"},
+    {"id": 2, "year": 2023, "period": "Sept", "paper": 2, "url": "https://www.saexampapers.co.za/wp-content/uploads/2023/11/Mathematics-Maths-NSC-P2-QP-Sept-2023-X05-Gauteng.pdf" },
+    {"id": 3, "year": 2022, "period": "Sept", "paper": 1, "url": "https://www.saexampapers.co.za/wp-content/uploads/2022/10/Mathematics-Maths-NSC-P1-QP-Sep-2022-Eng.pdf" },
+    {"id": 4, "year": 2022, "period": "Sept", "paper": 2, "url": "https://www.saexampapers.co.za/wp-content/uploads/2022/10/Mathematics-Maths-NSC-P2-QP-Sep-2022-Eng.pdf" },
+    {"id": 5, "year": 2021, "period": "Sept", "paper": 1, "url": "https://www.saexampapers.co.za/wp-content/uploads/2021/10/Mathematics-P1-NSC-QP-Sep-2021-Eng-1.pdf" },
+    {"id": 6, "year": 2021, "period": "Sept","paper": 2, "url": "https://www.saexampapers.co.za/wp-content/uploads/2021/10/Mathematics-P2-QP-Sept-2021-Eng.pdf" }
+],
+"Junpapers":[
+    { "id": 1, "year": 2023, "period": "Jun" ,"paper": 1, "url": "https://www.saexampapers.co.za/wp-content/uploads/2023/10/Mathematics-Maths-NSC-P1-QP-May-June-2023-Eng.pdf"},
+    {"id": 2, "year": 2023, "period": "Jun", "paper": 2, "url": "https://www.saexampapers.co.za/wp-content/uploads/2023/10/Mathematics-Maths-NSC-P2-QP-May-June-2023-Eng.pdf" },
+    {"id": 3, "year": 2022, "period": "Jun", "paper": 1, "url": "https://www.saexampapers.co.za/wp-content/uploads/2022/08/Mathematics-P1-May-June-2022-Eng.pdf" },
+    {"id": 4, "year": 2022, "period": "Jun", "paper": 2, "url": "https://www.saexampapers.co.za/wp-content/uploads/2022/08/Mathematics-P2-May-June-2022-Eng.pdf" },
+    {"id": 5, "year": 2021, "period": "Jun", "paper": 1, "url": "https://www.saexampapers.co.za/wp-content/uploads/2022/01/Mathematics-NSC-P1-May-June-2021-Eng.pdf" },
+    {"id": 6, "year": 2021, "period": "Jun","paper": 2, "url": "https://www.saexampapers.co.za/wp-content/uploads/2022/01/Mathematics-NSC-P2-May-June-2021-Eng.pdf" }
+],
+"Marcpapers":
+[
+    { "id": 1, "year": 2023, "period": "Marc" ,"paper": 1, "url": "https://www.saexampapers.co.za/wp-content/uploads/2023/03/Mathematics-Maths-QP-March-2023-Gauteng.pdf"},
+    {"id": 2, "year": 2023, "period": "Marc", "paper": 2, "url": "https://www.saexampapers.co.za/wp-content/uploads/2023/05/Mathematics-Maths-NSC-QP-March-2023-KZN.pdf" },
+    {"id": 3, "year": 2022, "period": "Marc", "paper": 1, "url": "https://www.saexampapers.co.za/wp-content/uploads/2022/05/Mathematics-QP-March-2022-Guateng.pdf" },
+    {"id": 4, "year": 2022, "period": "Marc", "paper": 2, "url": "https://www.saexampapers.co.za/wp-content/uploads/2022/05/Mathematics-QP-March-2022-Free-State.pdf" },
+    {"id": 5, "year": 2021, "period": "Marc", "paper": 1, "url": "https://www.saexampapers.co.za/wp-content/uploads/2021/08/Mathematics-NSC-QP-April-2021-Eng.pdf" },
+    {"id": 6, "year": 2021, "period": "Marc","paper": 2, "url": "https://www.saexampapers.co.za/wp-content/uploads/2021/08/Mathematics-QP-April-2021-Mpumalanga.pdf" }
+]
+}

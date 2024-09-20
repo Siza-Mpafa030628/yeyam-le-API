@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>eyphayi</title>
+
+</head>
+<body style="background-color:  #C9A0DC;">
+ 
+    <button id="showBooks" style="padding: auto; font-weight: bold;left: 45%; position: absolute; background-color:  #08000c; border-radius: 5px; color:  #C9A0DC;">show textbooks</button>
+    <fieldset id="showTextBooks" style=" position: absolute;top: 50px; left: 10%; border-radius: 10px; width: 80%; min-height: 90%;">
+        <input id="textbooksearcher" type="search" placeholder="search 'TEXTBOOK'" style="position:absolute; right: 1px; border-radius: 5px ;">
+        <div  id="booksContainer" style="position: absolute; align-items: center; justify-content: center;">
+        </div>
+    </fieldset>
+
+    <button id="showVideos" style="padding: auto; font-weight: bold; position: absolute; top: 105%; left: 45.3%; background-color: #08000c; border-radius: 5px; color: #C9A0DC;">show videos</button>
+    <fieldset id="showVids" style="position: absolute; top: 115%; left: 10%; border-radius: 10px; width: 80%; min-height: 80%;">
+        <input id="videosearcher" type="search" placeholder="search 'VIDEO'" style="position:absolute; right: 1px; border-radius: 5px ;">
+        <div  id="videosContainer" style="position: absolute; align-items: center; justify-content: center;">
+        </div>
+    </fieldset>
+
+    <button id="showPapers" style="padding: auto; font-weight: bold; position: absolute; top: 205%; left: 45.3%; background-color: #08000c; border-radius: 5px; color: #C9A0DC;">show previous papers</button>
+    <fieldset id="showPaps" style="position: absolute; top: 220%; left: 10%; border-radius: 10px; width: 80%; min-height: 235%;">
+        <input id="papersearcher" type="search" placeholder="search 'Previuos Paper'" style="position:absolute; right: 1px; border-radius: 5px ;">
+        <div  id="papersContainer" style="position: absolute; align-items: center; justify-content: center;">
+        </div>
+    </fieldset>
+
+    <script type="module" src="./api.js"></script>
+</body>
+</html>

@@ -1,0 +1,53 @@
+{"Mathvideos":
+[
+{
+    "id": 1,
+    "title": "Sequences & Series",
+    "url":"https://www.youtube.com/watch?v=B8dKyX9g7Fk&list=PLU_DCVXL8MyPIXj7twby7-xtcs9hekRVn"
+},
+{
+    "id": 2,
+    "title": "Functions",
+    "url":"https://www.youtube.com/watch?v=2IWIywXcpvg&list=PLU_DCVXL8MyP_hkCTbIgh6C4ZhklRk3VJ"
+},
+{
+    "id": 3,
+    "title": "Trigonometry",
+    "url":"https://www.youtube.com/watch?v=yq76CaYxPWc&list=PLU_DCVXL8MyNp2vqZjZvDTRDxf6oCuf7l"
+},
+{
+    "id": 4,
+    "title": "Finance",
+    "url":"https://www.youtube.com/watch?v=KbFqPQZyQ0g&list=PLU_DCVXL8MyPZRWmE6MVzwuBlg2hfuvoT"
+},
+{
+    "id": 5,
+    "title": "Differential Calculus",
+    "url":"https://www.youtube.com/watch?v=4VUWIiudCk0&list=PLU_DCVXL8MyP_xzgHLGl89rWRiS2jLHNk"
+},
+{
+    "id": 6,
+    "title": "Polynomials",
+    "url":"https://www.youtube.com/watch?v=PBEeD9q25O4&pp=ygUgZ3JhZGUgMTIgbWF0aGVtYXRpY3MgcG9seW5vbWlhbHM%3D"
+},
+{
+    "id": 7,
+    "title": "Analytical Geometry",
+    "url":"https://www.youtube.com/watch?v=cjP4tmQtxEs&list=PLU_DCVXL8MyPiQexgRohpf0G0o_DEHpQH"
+},
+{
+    "id": 8,
+    "title": "Euclidean Geometry",
+    "url":"https://www.youtube.com/watch?v=DHDKaIuUGnA&list=PLU_DCVXL8MyMfSj1cUq05oB6enr8aVRGg"
+},
+{
+    "id": 9,
+    "title": "Statistics",
+    "url":"https://www.youtube.com/watch?v=DZDZ70gLJOI&list=PLOaNAKtW5HLQ6tU6WQwuJ7tYMbTjGrIUk"
+},
+{
+    "id": 10,
+    "title": "Probability",
+    "url":"https://www.youtube.com/watch?v=loYKqFQcksY&list=PLU_DCVXL8MyPJINt5go5JRtKhcEGc2bz5"
+}
+]}
